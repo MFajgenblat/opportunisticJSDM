@@ -1,0 +1,51 @@
+species_id;Species;Genus;Family;Superfamily;Suborder;Order;Author;English_name;Dutch_name;Body_size;Migratory;Permanent_ponds;Nutrient_level;Antipredation_index;STI
+609;Aeshna affinis;Aeshna;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Vander Linden 1820;Southern migrant hawker;Zuidelijke glazenmaker;61.5;1;0;3;8;10.877
+610;Aeshna cyanea;Aeshna;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Müller 1764;Southern hawker;Blauwe glazenmaker;71.5;0;1;3;8;8.813
+611;Aeshna grandis;Aeshna;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Linnaeus 1758;Brown hawker;Bruine glazenmaker;73.5;0;1;3;8;6.553
+615;Aeshna isoceles;Aeshna;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Müller 1767;Green-eyed hawker;Vroege glazenmaker;64;0;1;3;8;10.379
+612;Aeshna juncea;Aeshna;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Linnaeus 1758;Common hawker;Venglazenmaker;72.5;0;1;1;3;5.86
+613;Aeshna mixta;Aeshna;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Latreille 1805;Migrant hawker;Paardenbijter;60;1;1;3;8;10.251
+616;Anax imperator;Anax;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Leach 1815;Blue emperor;Grote keizerlibel;75;0;1;3;6;11.398
+617;Anax parthenope;Anax;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Selys 1839;Lesser emperor;Zuidelijke keizerlibel;68.5;1;1;3;6;11.823
+608;Brachytron pratense;Brachytron;Aeshnidae;Aeshnoidae;Anisoptera;Odonata;Müller 1764;Hairy hawker;Glassnijder;58.5;0;1;3;4;9.017
+604;Gomphus pulchellus;Gomphus;Gomphidae;Aeshnoidae;Anisoptera;Odonata;Selys 1840;Western clubtail;Plasrombout;48.5;0;1;3;3;11.131
+621;Cordulia aenea;Cordulia;Corduliidae;Libelluloidea;Anisoptera;Odonata;Linnaeus 1758;Downy emerald;Smaragdlibel;51;0;1;3;8;7.348
+622;Somatochlora arctica;Somatochlora;Corduliidae;Libelluloidea;Anisoptera;Odonata;Zetterstedt 1840;Northern emerald;Hoogveenglanslibel;48;0;1;1;0;5.2019
+623;Somatochlora flavomaculata;Somatochlora;Corduliidae;Libelluloidea;Anisoptera;Odonata;Vander Linden 1825;Yellow-spotted emerald;Gevlekte glanslibel;49.5;0;1;2;20;7.769
+624;Somatochlora metallica;Somatochlora;Corduliidae;Libelluloidea;Anisoptera;Odonata;Vander Linden 1825;Brilliant emerald;Metaalglanslibel;52.5;0;1;3;23;6.412
+633;Crocothemis erythraea;Crocothemis;Libellulidae;Libelluloidea;Anisoptera;Odonata;Brullé 1832;Broad scarlet;Vuurlibel;40.5;1;1;3;2;12.202
+643;Leucorrhinia caudalis;Leucorrhinia;Libellulidae;Libelluloidea;Anisoptera;Odonata;Charpentier 1840;Lilypad whiteface;Sierlijke witsnuitlibel;35;0;1;3;20;6.898
+644;Leucorrhinia dubia;Leucorrhinia;Libellulidae;Libelluloidea;Anisoptera;Odonata;Vander Linden 1825;Small whiteface;Venwitsnuitlibel;33.5;0;1;1;4;5.416
+645;Leucorrhinia pectoralis;Leucorrhinia;Libellulidae;Libelluloidea;Anisoptera;Odonata;Charpentier 1825;Yellow-spotted whiteface;Gevlekte witsnuitlibel;35.5;0;1;2;16;7.544
+646;Leucorrhinia rubicunda;Leucorrhinia;Libellulidae;Libelluloidea;Anisoptera;Odonata;Linnaeus 1758;Ruby whiteface;Noordse witsnuitlibel;34.5;0;1;1;2;5.597
+627;Libellula depressa;Libellula;Libellulidae;Libelluloidea;Anisoptera;Odonata;Linnaeus 1758;Broad-bodied chaser;Platbuik;43.5;0;0;3;8;9.67
+628;Libellula fulva;Libellula;Libellulidae;Libelluloidea;Anisoptera;Odonata;Müller 1764;Scarce chaser;Bruine korenbout;43.5;0;1;3;20;10.326
+629;Libellula quadrimaculata;Libellula;Libellulidae;Libelluloidea;Anisoptera;Odonata;Linnaeus 1758;Four-spotted chaser;Viervlek;44;0;1;3;8;7.881
+630;Orthetrum brunneum;Orthetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Fonscolombe 1837;Southern skimmer;Zuidelijke oeverlibel;45;0;0;3;0;11.719
+631;Orthetrum cancellatum;Orthetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Linnaeus 1758;Black-tailed skimmer;Gewone oeverlibel;47;0;1;3;8;10.406
+634;Sympetrum danae;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Sulzer 1776;Black darter;Zwarte heidelibel;31.5;0;1;1;7;6.761
+635;Sympetrum depressiusculum;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Selys 1841;Spotted darter ;Kempense heidelibel;31.5;0;0;2;21;9.04
+637;Sympetrum fonscolombii;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Selys 1840;Red-veined darter;Zwervende heidelibel;36.5;1;0;3;2;12.59
+638;Sympetrum meridionale;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Selys 1841;Southern darter;Zuidelijke heidelibel;37.5;1;0;3;12;11.99
+639;Sympetrum pedemontanum;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Müller 1766;Banded darter;Bandheidelibel;31.5;1;1;3;19;8.539
+640;Sympetrum sanguineum;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Müller 1764;Ruddy darter;Bloedrode heidelibel;36.5;1;1;3;16;9.326
+641;Sympetrum striolatum;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Charpentier 1840;Common darter;Bruinrode heidelibel;39.5;1;0;3;18;10.817
+642;Sympetrum vulgatum;Sympetrum;Libellulidae;Libelluloidea;Anisoptera;Odonata;Linnaeus 1758;Moustached darter;Steenrode heidelibel;37.5;0;1;2;18;7.75
+600;Ceriagrion tenellum;Ceriagrion;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;de Villers 1789;Small red damselfly;Koraaljuffer;30;0;1;2;0;12.199
+591;Coenagrion hastulatum;Coenagrion;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Charpentier 1825;Spearhead bluet;Speerwaterjuffer;32;0;1;1;0;5.663
+592;Coenagrion lunulatum;Coenagrion;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Charpentier 1840;Crescent bluet;Maanwaterjuffer;31.5;0;1;1;0;6.739
+594;Coenagrion puella;Coenagrion;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Linnaeus 1758;Azure bluet;Azuurwaterjuffer;34;0;1;3;0;9.297
+595;Coenagrion pulchellum;Coenagrion;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Vander Linden 1825;Variable bluet;Variabele waterjuffer;36;0;1;3;0;8.303
+596;Coenagrion scitulum;Coenagrion;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Rambur 1842;Dainty bluet;Gaffelwaterjuffer;31.5;0;1;3;0;12.061
+590;Enallagma cyathigerum;Enallagma;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Charpentier 1840;Common bluet;Watersnuffel;32.5;0;1;3;0;8.463
+598;Erythromma najas;Erythromma;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Hansemann 1823;Large redeye;Grote roodoogjuffer;33;0;1;3;0;7.601
+599;Erythromma viridulum;Erythromma;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Charpentier 1840;Small redeye;Kleine roodoogjuffer;29;0;1;3;0;10.644
+587;Ischnura elegans;Ishnura;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Vander Linden 1820;Common bluetail;Lantaarntje;32;0;1;3;0;9.815
+588;Ischnura pumilio;Ishnura;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Charpentier 1825;Small bluetail;Tengere grasjuffer;28.5;0;0;3;0;10.454
+589;Pyrrhosoma nymphula;Pyrrhosoma;Coenagrionidae;Coenagrionoidae;Zygoptera;Odonata;Sulzer 1776;Large red damselfly;Vuurjuffer;34.5;0;1;3;0;8.815
+581;Lestes barbarus;Lestes;Lestidae;Lestoidae;Zygoptera;Odonata;Fabricius 1798;Migrant spreadwing;Zwervende pantserjuffer;45;1;0;3;0;10.741
+582;Lestes dryas;Lestes;Lestidae;Lestoidae;Zygoptera;Odonata;Kirby 1890;Robust spreadwing;Tangpantserjuffer;37.5;0;0;2;0;9.067
+583;Lestes sponsa;Lestes;Lestidae;Lestoidae;Zygoptera;Odonata;Hansemann 1823;Common spreadwing;Gewone pantserjuffer;37;0;1;2;0;7.572
+584;Lestes virens;Lestes;Lestidae;Lestoidae;Zygoptera;Odonata;Charpentier 1825;Small spreadwing;Tengere pantserjuffer;34.5;0;0;2;0;10.193
+585;Chalcolestes viridis;Lestes;Lestidae;Lestoidae;Zygoptera;Odonata;Vander Linden 1825;Western willow spreadwing;Houtpantserjuffer;43.5;0;1;3;0;10.616
+580;Sympecma fusca;Sympecma;Lestidae;Lestoidae;Zygoptera;Odonata;Vander Linden 1820;Common winter damsel;Bruine winterjuffer;36.5;1;0;3;0;10.848
